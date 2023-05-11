@@ -10,6 +10,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical">
+        <TextView
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Leoncio Pavon y Marcelo rivera"/>
         <EditText
             android:id="@+id/etNombre"
             android:layout_gravity="center"
@@ -23,6 +28,7 @@
             android:layout_gravity="center"
             android:layout_marginHorizontal="70dp"
             android:layout_width="250dp"
+            android:inputType="numberDecimal"
             android:hint="Precio Producto"
             android:layout_height="wrap_content"/>
         <EditText
@@ -32,6 +38,7 @@
             android:layout_marginHorizontal="70dp"
             android:layout_width="250dp"
             android:hint="Stock Producto"
+            android:inputType="number"
             android:layout_height="wrap_content"/>
         <Button
             android:layout_marginTop="50dp"

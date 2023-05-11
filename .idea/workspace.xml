@@ -9,10 +9,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dada5ace-f41e-43f9-86c9-c6d4674486ad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ni/edu/uca/sistematicopersistencia/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ni/edu/uca/sistematicopersistencia/MainActivity.kt" afterDir="false" />
+    <list default="true" id="dada5ace-f41e-43f9-86c9-c6d4674486ad" name="Changes" comment="Nombres de los integrantes">
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +110,14 @@
       <option name="presentableId" value="Default" />
       <updated>1683832848124</updated>
     </task>
+    <task id="LOCAL-00001" summary="Funcion de agregar Datos a la BD">
+      <created>1683835412430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683835412430</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,5 +130,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Funcion de agregar Datos a la BD" />
+    <MESSAGE value="Nombres de los integrantes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nombres de los integrantes" />
   </component>
 </project>
